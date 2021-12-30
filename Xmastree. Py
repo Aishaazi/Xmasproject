@@ -1,0 +1,4 @@
+height=11
+For i in range(height):
+    Print((''*(height-i))+'*' *((2*i)+1))
+    Print(( '*height)+'|'))
